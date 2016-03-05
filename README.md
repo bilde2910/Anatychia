@@ -4,6 +4,10 @@
 
 Anatychia is an easy to use, yet advanced world editor for Minecraft. Unlike other editors, Anatychia only lets you remove things from your world, not add anything new. The editor helps you remove specific elements of your world, like tall grass, with just a few clicks. It's possible to go advanced: Want to specifically remove all wither skeletons with more than 5 hearts of health? No problem, Anatychia handles it perfectly.
 
+## Downloads
+
+[Download here &gt;](https://varden.info/download.php?sid=16)
+
 ## Features
 
 * Analyze and process any Minecraft worlds in Anvil format. Anvil has been the standard world type for several years
